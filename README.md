@@ -1,0 +1,2 @@
+The current project I am working on is develping my skills as a web designer through Odin.
+Once I am done I will have a functioning webpage and show knowledge in HTML, CSS, and Javascript
